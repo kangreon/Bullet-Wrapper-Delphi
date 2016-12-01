@@ -1,5 +1,7 @@
-# Bullet-Wrapper-Delphi
-Object-oriented wrapper for Delphi programming language.
+# Bullet Wrapper Delphi
+This is object-oriented wrapper over [Bullet Physics SDK](https://github.com/bulletphysics/bullet3/) for Delphi programming language.
+
+[Bullet Physics SDK](https://github.com/bulletphysics/bullet3/): real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
 
 ## License
 
