@@ -10,7 +10,7 @@ Object-oriented wrapper for Delphi programming language.
 ## Objects with a complete wrapper
 
 ## Example
-
+Create a dynamic rigidbody:
 ```
   begin
     ColShape := TSphereShape.Create(1);
@@ -39,4 +39,4 @@ Object-oriented wrapper for Delphi programming language.
     FDynamicsWorld.AddRigidBody(Body);
   end;
 ```
-For viewing of a complete example open the SimpleDemo project
+For viewing of a complete example open the SimpleDemo project.
